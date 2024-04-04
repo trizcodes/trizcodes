@@ -1,11 +1,6 @@
-<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
+### Hi there 👋
 
-<h3 align="center">"Talk is cheap. Show me the code"</h3>
-<h4 align="center">- Linus Torvalds -</h4>
-
-<br>
-
-I'm 21-year-old girl on an intention to enhance as a Computer Scientist
+I'm Ana Beatriz and I've been working in tech since 2023. 
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [trizcodes](https://trizcodes.netlify.app/)
