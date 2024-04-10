@@ -7,14 +7,6 @@ I'm Ana Beatriz and I've been working in tech since 2023.
   
   <br>
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=trizcodes&show_icons=true&theme=gotham" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trizcodes&layout=compact&theme=gotham" />
-</div>
-
-
-<br>
-
 ##  🔥 Skills
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
@@ -41,9 +33,6 @@ I'm Ana Beatriz and I've been working in tech since 2023.
 
 
 
-
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=12261e&size=24&center=true&vCenter=true&width=1000&lines=Thank+you+for+visiting+my+profile!;Bye+%F0%9F%91%8B)](https://git.io/typing-svg)
   
 
 <br>
