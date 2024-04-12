@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Hi 👋, I'm Ana Beatriz! A passionate Data Science student
+ I'm Ana Beatriz! A passionate Data Science student
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [trizcodes](https://trizcodes.netlify.app/)
