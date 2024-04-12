@@ -4,8 +4,6 @@ I'm Ana Beatriz and I've been working in tech since 2023.
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [trizcodes](https://trizcodes.netlify.app/)
-  
-  <br>
 
 ##  🔥 Skills
 
@@ -26,11 +24,3 @@ I'm Ana Beatriz and I've been working in tech since 2023.
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   </div>
-  
-  <br>
-
-
-
-  
-
-<br>
