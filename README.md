@@ -2,7 +2,6 @@
 
  I'm Ana Beatriz! A passionate Computer Science student
 
-- 🌱 I’m currently learning Java
 - 📫 How to reach me: [trizcodes](https://www.linkedin.com/in/trizcodes/)
 
 ## ⚡ Technologies
