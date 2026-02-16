@@ -1,6 +1,7 @@
 ### Hi there 👋
 
- I'm Ana Beatriz! A passionate Computer Science student
+I'm Ana Beatriz, a Computer Science student focusing on Quality Assurance (QA) with a strong interest in Site Reliability Engineering (SRE). 
+As a hobby, I explore Quantum Computing, diving into theoretical concepts and experimenting with Python whenever I can
 
 - 📫 How to reach me: [trizcodes](https://www.linkedin.com/in/trizcodes/)
 
@@ -8,9 +9,9 @@
 
 These are some of the technologies and tools that I work with:
 
-Backend: 
+Languages: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-007396?style=flat-square&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -26,6 +27,12 @@ Database:
 Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 IDEs:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
