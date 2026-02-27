@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ana Beatriz, a Computer Science student focusing on Quality Assurance (QA) with a strong interest in Site Reliability Engineering (SRE). 
+I'm Ana Beatriz, a Computer Science student focusing in Site Reliability Engineering (SRE). 
 As a hobby, I explore Quantum Computing, diving into theoretical concepts and experimenting with Python whenever I can
 
 - 📫 How to reach me: [trizcodes](https://www.linkedin.com/in/trizcodes/)
